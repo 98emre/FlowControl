@@ -84,7 +84,7 @@ namespace Assigment2
             bool running = true;
 
             while (running)
-            { 
+            {
                 Console.Write("\nAnge antal personer i sällskapet: ");
 
                 string input = Console.ReadLine()!;
